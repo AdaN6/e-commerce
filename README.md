@@ -48,3 +48,8 @@ npx prima init --datasource-provider sqlite
 ```
 npx prisma migrate dev --name init
 ```
+
+## shadcn
+```
+npx shadcn-ui@latest init
+```
