@@ -43,3 +43,8 @@ npm install prisma --save-dev
 ```
 npx prima init --datasource-provider sqlite
 ```
+
+### create SQLite database
+```
+npx prisma migrate dev --name init
+```
